@@ -38,7 +38,7 @@
       </div>
       <button id="submit">Siguiente</button>
 <center>
-    <a href="index.html"><h5>Ir a la pagina de inicio</h5></a>
+    <a href="index.php"><h5>Ir a la pagina de inicio</h5></a>
 </center>
     </div>
   </body>

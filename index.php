@@ -110,7 +110,7 @@
 					</div>
 				</div>
 				<center>
-					<a href="questions.html"><li class="btn btn-primary" ><h5>Hacer cuestionario</h5></li></a>
+					<a href="questions.php"><li class="btn btn-primary" ><h5>Hacer cuestionario</h5></li></a>
 			</center>
 			</div>
 		</div>
